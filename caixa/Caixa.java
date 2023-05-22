@@ -1,8 +1,5 @@
 package caixa;
 
-/*Crie uma classe chamada Caixa, com os atributos largura, altura e
-profundidade. Crie um método chamado calcularVolume( ) que retorna o volume
-da caixa. */
 public class Caixa {
     Double largura;
     Double altura;
