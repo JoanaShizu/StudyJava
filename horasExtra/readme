@@ -1,0 +1,5 @@
+Escreva uma classe para representar um programador. A classe deve ter os campos
+salarioMensal e horasHorasExtras. Deve, também, ter o método
+calcularSalario( ) que retorna o valor a receber pelo programador: salário mensal +
+(quantidade de horas extras * valor hora extra). O valor da hora extra é passado como
+argumento para o método.
