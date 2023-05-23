@@ -1,0 +1,22 @@
+1) Crie uma classe chamada Ponto, com campos x e y, que representam uma
+coordenada no plano cartesiano. Os campos devem ser privados com métodos get() e set() para cada um. Crie um construtor parametrizado e um construtor vazio.
+
+2) Crie uma classe chamada Robo, que simula um robô. A classe deve ter um
+campo, do tipo String, com o nome do robô e um campo do tipo Ponto, que
+representa a posição do Robo no plano cartesiano. A classe deve ter
+    a) um construtor parametrizado que recebe o nome do robô e um Ponto
+    b) um construtor vazio
+Um robô pode andar para direita (x é incrementado), andar para esquerda (x
+é decrementado), andar para baixo (y é decrementado) e andar para cima (y
+é incrementado). 
+
+Um robô pode, também, se teletransportar para uma
+coordenada específica. 
+
+Um robô também deve saber informar sua posição
+(um método que retorna a coordenada em que está).
+Crie métodos adequados para essas ações do robô.
+
+3) Com base na classe Robo, crie um método chamado colidiu( ) que recebe um
+objeto Robo e retorna verdadeiro se eles estiverem na mesma posição ou
+falso, caso contrário.
