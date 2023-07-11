@@ -1,0 +1,4 @@
+Crie uma classe chamada Linha com o campo comprimento. Crie um construtor
+vazio e um construtor que receba argumentos. A classe deve ter o método desenhar( )
+que traça uma linha com o valor de comprimento.
+Observação: traçar uma linha nesse caso é apenas printar o caractere _
